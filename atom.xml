@@ -3,11 +3,11 @@
   <title>土豆&amp;登哥</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://beaexecutive.github.io/"/>
+  <link href="http://beaexecutive.github.io/blog/"/>
   <updated>2020-12-18T02:55:06.146Z</updated>
-  <id>http://beaexecutive.github.io/</id>
+  <id>http://beaexecutive.github.io/blog/</id>
   
   <author>
     <name>executive</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://beaexecutive.github.io/2020/12/18/hello-world/"/>
-    <id>http://beaexecutive.github.io/2020/12/18/hello-world/</id>
+    <link href="http://beaexecutive.github.io/blog/2020/12/18/hello-world/"/>
+    <id>http://beaexecutive.github.io/blog/2020/12/18/hello-world/</id>
     <published>2020-12-18T02:55:06.146Z</published>
     <updated>2020-12-18T02:55:06.146Z</updated>
     
