@@ -5,9 +5,9 @@
   
   <link href="/ExecutiveBlog/atom.xml" rel="self"/>
   
-  <link href="http://beaexecutive.github.io/ExecutiveBlog/"/>
+  <link href="http://beaexecutive.github.io/"/>
   <updated>2020-12-18T02:55:06.146Z</updated>
-  <id>http://beaexecutive.github.io/ExecutiveBlog/</id>
+  <id>http://beaexecutive.github.io/</id>
   
   <author>
     <name>executive</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://beaexecutive.github.io/ExecutiveBlog/2020/12/18/hello-world/"/>
-    <id>http://beaexecutive.github.io/ExecutiveBlog/2020/12/18/hello-world/</id>
+    <link href="http://beaexecutive.github.io/2020/12/18/hello-world/"/>
+    <id>http://beaexecutive.github.io/2020/12/18/hello-world/</id>
     <published>2020-12-18T02:55:06.146Z</published>
     <updated>2020-12-18T02:55:06.146Z</updated>
     
